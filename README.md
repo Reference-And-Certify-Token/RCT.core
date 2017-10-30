@@ -12,7 +12,7 @@
 - [Intro](#intro)
 - [Compilation](#compilation)
 	- [IntelliJ IDEA](#intellij-idea)
-	- [Currently Working on RocksDB for storing digital asset](#currently-working-on-rocksdb-for-storing-digital-asset)
+	- [:exclamation: Currently Working on RocksDB for storing digital asset](#exclamation-currently-working-on-rocksdb-for-storing-digital-asset)
 - [Structure](#structure)
 
 <!-- /MarkdownTOC -->
@@ -45,7 +45,7 @@ compilation:
 
 Import from all source files.
 
-### Currently Working on RocksDB for storing digital asset
+### :exclamation: Currently Working on RocksDB for storing digital asset
 
 **Important**
 :ledger:
