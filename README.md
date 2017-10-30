@@ -11,6 +11,8 @@
 
 - [Intro](#intro)
 - [Compilation](#compilation)
+	- [IntelliJ IDEA](#intellij-idea)
+	- [Currently Working on RocksDB for storing digital asset](#currently-working-on-rocksdb-for-storing-digital-asset)
 - [Structure](#structure)
 
 <!-- /MarkdownTOC -->
@@ -38,12 +40,37 @@ compilation:
     mvn install
 
 
+
+### IntelliJ IDEA
+
+Import from all source files.
+
+### Currently Working on RocksDB for storing digital asset
+
+**Important**
+
+
+
+
 ## Structure
 
 + 	nem.core
 	-	The API wrapper with the crypto code that nem uses
 +	rocksDB
 	-	Database for digital asset
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
